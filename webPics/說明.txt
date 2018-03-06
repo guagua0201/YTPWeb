@@ -1,0 +1,25 @@
+※ 間隔、大小、顏色 都還能再做調整 (其實search page 的 logo 裡的笑臉顏色也還在看哪個比較好)，這只是一個排版的樣式
+
+1. entrance
+目前有三種備案
+如同檔案畫的那樣
+其中第三種最後會有背景圖(還沒選定)
+就像是
+https://www.starbucks.com.tw/home/index.jspx?r=74
+一樣
+
+2. search page
+如圖片所示
+icon : gender, age, logo, happyCircle
+
+3. result page
+如圖片所示
+icon : logo, happyCircle
+分成兩層底色
+就像是
+https://www.google.com.tw/search?safe=off&source=hp&ei=II6SWuitEouB8gWowYuAAw&q=s&oq=s&gs_l=psy-ab.3..35i39k1l2j0i131k1j0i67k1l3j0i131k1l3j0.1383.1383.0.1928.2.1.0.0.0.0.329.329.3-1.1.0....0...1c.1.64.psy-ab..1.1.328.0...0.brQqq_zLyMg
+也有上下兩層底色
+
+目前有考慮要做一個icon給你是當找不到結果的時候可以show的
+可以討論一下需要與否
+
